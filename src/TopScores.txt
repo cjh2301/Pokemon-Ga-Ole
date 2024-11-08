@@ -1,0 +1,5 @@
+Lee En Le, 120
+abc, 110
+123ee, 90
+www, 80
+123abc, 80
